@@ -130,6 +130,8 @@ main .lame{
     height: 609px;
     margin: 0;
     background: url('files/images/portrait_Cogbooster.jpg') no-repeat center;
+	background-position: center top;   /* try center center / 50% 20% */
+    background-size: cover;            /* fills box, may crop */
 }
 
 main .me{
