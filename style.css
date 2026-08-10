@@ -129,9 +129,9 @@ main .lame{
     width: 100%;
     height: 100%;
     margin: 0;
-    background: url('files/images/portrait_Cogbooster.jpg') no-repeat center;
-	background-position: center top;   /* try center center / 50% 20% */
-    background-size: cover;            /* fills box, may crop */
+    background-size: contain;
+	background-position: center;
+	background-color: #161616;          /* fills box, may crop */
 }
 
 main .me{
