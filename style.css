@@ -127,7 +127,7 @@ main .textbox{
 main .lame{
     position: relative;
     width: 100%;
-    height: 609px;
+    height: 100%;
     margin: 0;
     background: url('files/images/portrait_Cogbooster.jpg') no-repeat center;
 	background-position: center top;   /* try center center / 50% 20% */
